@@ -2,7 +2,9 @@
     border: 1px solid salmon;
     padding: 10px;
     border-radius: 10px;
-    /* margin: 10px; */
+}
+.visitedCountry{
+    background-color: #f6ffe613;
 }
 button{
     background: darkslategrey;
@@ -10,4 +12,5 @@ button{
     margin-top: 5px;
     padding: 10px 20px;
     border-radius: 10px;
+    cursor: pointer;
 }
